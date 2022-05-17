@@ -2,7 +2,7 @@
 
 Application Link: https://akashmagnadia.shinyapps.io/cs424_p2/
 
-Detailed Documentation:
+Detailed Documentation: https://sites.google.com/view/cs424-komar3/project-2
 
 The visulization was created for a screen with resolution of 5760x1620 (Sage screen of EVL UIC Lab). [For reference see picture below]
 
