@@ -1,4 +1,5 @@
 # Don't Sleep in the Subway
+This project visualizes the geographic information of all CTA L stations and explores trends and patterns in Chicago 'L' Station ridership data.
 
 ## Project Access
 
@@ -12,10 +13,6 @@ The visualization was created for a screen with resolution of 5760x1620 (Sage sc
 <p>
   <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/sage.jpeg" alt="User interface displayed in SAGE screen of EVL lab, UIC">
 </p>
-
-## Introduction
-
-This project visualizes the geographic information of all CTA L stations and explores trends and patterns in Chicago 'L' Station ridership data.
 
 ## User Interface
 
