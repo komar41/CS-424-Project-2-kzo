@@ -60,12 +60,11 @@ Features:
 </p>
 
 ### About Page
+Provides details about the application, creators, publication date, and data sources.
 
 <p>
   <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/overview/Overview%204.png" alt="About page">
 </p>
-
-Provides details about the application, creators, publication date, and data sources.
 
 ## About the Data
 
@@ -152,32 +151,3 @@ if __name__ == '__main__':
 
            chunk[1] = chunk[1].replace("'", "")
            writer.writerow(chunk)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Application Link: https://akashmagnadia.shinyapps.io/cs424_p2/
-
-Detailed Documentation: https://sites.google.com/view/cs424-komar3/project-2
-
-The visulization was created for a screen with resolution of 5760x1620 (Sage screen of EVL UIC Lab). [For reference see picture below]
-
-This project was built for visualizing the trends and interesting patterns in all Chicago 'L' Station ridership data over the years (2001-2021).
-
-![IMG_1273](https://user-images.githubusercontent.com/90569118/168742352-4cb317f3-dbf4-456e-b3c7-d1a05a7c861c.jpg)
