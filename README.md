@@ -182,3 +182,7 @@ if __name__ == '__main__':
 
            chunk[1] = chunk[1].replace("'", "")
            writer.writerow(chunk)
+
+## Team
+- Kazi Shahrukh Omar
+- Akash Magnadia
