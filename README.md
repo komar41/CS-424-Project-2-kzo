@@ -36,18 +36,15 @@ Features:
 
 #### Ridership Difference Between Two Dates
 
-<p>
-  <img src="comparison.png" alt="All stations page - ridership difference between two dates">
-</p>
-
 - Checkbox to enable comparison between two dates
 - Divergent color scheme on bar chart to show changes
 
-### One Station Page
-
 <p>
-  <img src="findings.png" alt="One station page">
+  <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/overview/Overview%202.png" alt="All stations page - ridership difference between two dates">
 </p>
+
+
+### One Station Page
 
 Features:
 - Overview of ridership data for a particular CTA station
@@ -58,10 +55,14 @@ Features:
 - Year selection for detailed chart
 - Raw data display
 
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/overview/Overview%203.png" alt="One station page">
+</p>
+
 ### About Page
 
 <p>
-  <img src="findings.png" alt="About page">
+  <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/overview/Overview%204.png" alt="About page">
 </p>
 
 Provides details about the application, creators, publication date, and data sources.
@@ -75,26 +76,26 @@ Data sources from Chicago Data Portal:
 
 ### CTA L Stops Information
 
-<p>
-  <img src="data.png" alt="CTA L stops information data">
-</p>
-
 Includes:
 - Location and service availability information
 - Station names, stop descriptions, and line colors
 - Direction IDs and unique identifiers
 - ADA compliance information
 
-### CTA L Station Ridership Data
-
 <p>
-  <img src="data.png" alt="CTA L station ridership data">
+  <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/data/Data%201.png" alt="CTA L stops information data">
 </p>
+
+### CTA L Station Ridership Data
 
 Contains:
 - Daily ride entries for all CTA stations (2001-2021)
 - Combined entries for all turnstiles per station
 - Day types: W (Weekday), A (Saturday), U (Sunday/Holiday)
+
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/dont_sleep_in_the_subway/data/Data%202.png" alt="CTA L station ridership data">
+</p>
 
 ### Data Processing
 
